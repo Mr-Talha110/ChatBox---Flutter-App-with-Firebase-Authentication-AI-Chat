@@ -12,8 +12,6 @@ ChatBox is a feature-rich Flutter application designed for seamless communicatio
 - **Modern UI**: Well-structured and clean design
 
 ## Screenshots
-<img src="[screenshot1.png](https://github.com/user-attachments/assets/ef4bee11-e02c-48e0-b018-359633600b5e)" width="400">
-
 ![1](https://github.com/user-attachments/assets/ef4bee11-e02c-48e0-b018-359633600b5e)
 ![2](https://github.com/user-attachments/assets/8fb14a3d-deb8-437d-8550-9e6d4ae2535b)
 ![3](https://github.com/user-attachments/assets/95c0d7f5-ec1d-4f9d-af4a-ed010a209a71)
